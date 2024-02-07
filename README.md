@@ -13,7 +13,7 @@ This project aims to automate the extraction of data from a CSV file hosted in a
 
 - **etl.py**: This Python script contains functions to extract data from the CSV file, transform it by renaming columns, calculating sales, and cleaning the DataFrame, create a PostgreSQL table if it doesn't exist, and insert the transformed data into the PostgreSQL table. The main function establishes a connection to the PostgreSQL database, performs the ETL process, and closes the connection.
 
-### Summary
+### ETL Process
 
 - **Data Extraction**: The `extract()` function reads data from the CSV file (`Online_Retail.csv`) into a Pandas DataFrame.
 
