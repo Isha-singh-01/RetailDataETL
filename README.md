@@ -1,6 +1,9 @@
 # Retail Data Pipeline
 
-This project aims to automate the extraction of data from a CSV file hosted in a remote repository, loading it into a PostgreSQL database, orchestrating the workflow using Apache Airflow, and finally creating a dashboard using Tableau for visualization.
+This project aims to automate the extraction of data from a CSV file hosted in a remote repository, loading it into a PostgreSQL database, orchestrating the workflow using Apache Airflow, and finally creating a dashboard using Tableau for visualization.<br>
+
+<img src="https://raw.githubusercontent.com/Isha-singh-01/RetailAnalyticsusingAWS/main/ETL%20Diagram.png" width=650>
+
 
 ## Project Structure
 
